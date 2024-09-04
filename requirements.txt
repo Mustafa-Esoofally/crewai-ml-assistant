@@ -1,4 +1,6 @@
 crewai
 langchain_groq
 pandas
+nbformat
 python-dotenv
+
